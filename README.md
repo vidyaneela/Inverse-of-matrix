@@ -20,6 +20,7 @@ Display the original nested array.
 Find the inverse of the array using linalg.inv() method and display the result.
 
 ### PROGRAM:
+```
 '''
 Program to find the inverse of a nested array
 Developed by: vidya neela
@@ -38,6 +39,7 @@ for i in range(rows):
     l1+=[temp]
 print(l1)
 print(np.linalg.inv(l1))
+```
 
 ## OUTPUT:
 
